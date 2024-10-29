@@ -1,5 +1,5 @@
 """
-Code to plot the training logs saved during training the code "train.py". The plots will be saved as a pdf file.
+Code to plot the training logs saved during training the code "train_sfvq.py". The plots will be saved as a pdf file.
 """
 import pickle
 import numpy as np
